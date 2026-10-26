@@ -37,6 +37,6 @@ Cut the guest list first (cost scales per head). Pick an off-peak date or a Frid
 
 ## Want the printable planner?
 
-The **Wedding Budget and Planning Printable** has the budget tracker, vendor list, guest list and RSVP tracker, 12-month checklist, day-of timeline and payment tracker: https://spectre5.gumroad.com/l/PLACEHOLDER ($7)
+The **Wedding Budget and Planning Printable** has the budget tracker, vendor list, guest list and RSVP tracker, 12-month checklist, day-of timeline and payment tracker: https://payhip.com/b/fs4Vc ($7)
 
 More guides: https://patreon.com/123black
