@@ -2,6 +2,8 @@
 
 Rough guidelines, not rules. Adjust to your priorities and region.
 
+Free [wedding budget calculator by guest count](https://blacksgit.github.io/wedding-budget/): see what each part and each guest costs.
+
 ## Typical budget split
 
 | Category | Typical share |
